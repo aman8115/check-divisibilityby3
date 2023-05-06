@@ -1,0 +1,43 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+   
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px ;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px ;
+    
+}
+#input{
+    height: 40px ;
+    width: 150px ;
+   
+   padding: 10px ;
+  text-align: center;
+  font-size: 15px;
+  border: transparent;
+  background-color: cornsilk;
+    
+}
+button{
+    height: 40px ;
+    width: 180px ;
+    background-color: coral;
+    border: transparent;
+}
+p{
+    font-size: 25px ;
+    color: cadetblue;
+}
